@@ -6,12 +6,12 @@ The entry point is Controller.js.
 
 Features:
 - XHR upload for HTML5 compliant browsers (File API, FormData API, XHR level 2)
-- iframe upload fallback for non-HTML5 compliant browsers (e.g. IE8, IE9)
-- drag and drop
-- upload progress (XHR)
-- multiple file upload
-- validation - max file size, file type, max no. of files
+- Iframe upload fallback for non-HTML5 compliant browsers (e.g. IE8, IE9)
+- Drag and drop
+- Upload progress (XHR)
+- Multiple file upload
+- Validation - max file size, file type, max no. of files
 - jQuery.Deferred and promises used to manage the uploads
 - Backbone views, models, collections, and events
-- lightweight - code as clean and DRY as possible
+- Lightweight - code as clean and DRY as possible
 - "progress" and "done" templates (Underscore)
