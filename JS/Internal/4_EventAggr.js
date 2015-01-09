@@ -1,0 +1,1 @@
+﻿Namespace.MediaUploader.EventAggr = _.extend({}, Backbone.Events);
